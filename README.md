@@ -16,8 +16,9 @@
 </div>
   
 ### Contacto
-<a href="https://www.linkedin.com/in/paola-medina-58bb76186/" target="_blank"><img height="60" width="60" src="https://www.flaticon.com/free-icons/linkedin" target="_blank"></a>
+<a href="https://www.linkedin.com/in/paola-medina-58bb76186/" target="_blank"><img height="60" width="60" src="https://user-images.githubusercontent.com/52223033/153646850-5bb4668b-e4d3-42fe-bb8a-ef9587910bad.png" target="_blank"></a>
 <a href="paaaomedina@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://instagram.com/pao___medina/" target="_blank"><img  height="60" width="60" src="https://user-images.githubusercontent.com/52223033/153646011-31691c71-5dd4-4314-a921-e7c6ca440b0f.png" target="_blank"></a>
 
 <a href="https://www.flaticon.com/free-icons/linkedin" title="linkedin icons">Linkedin icons created by Laisa Islam Ani - Flaticon</a>
+![image](https://user-images.githubusercontent.com/52223033/153646850-5bb4668b-e4d3-42fe-bb8a-ef9587910bad.png)
