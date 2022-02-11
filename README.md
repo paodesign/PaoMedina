@@ -7,11 +7,11 @@
 
 ### Habilidades
 <div>
-  <img align="center" alt="Rafa-Js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Rafa-HTML" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
-  <img align="center" alt="Rafa-CSS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
+  <img align="center" alt="Rafa-Js" height="40" width="50" src="https://user-images.githubusercontent.com/52223033/153649121-1b2224f6-08b2-4356-bcb9-cf7d4541acdc.png">
+  <img align="center" alt="Rafa-HTML" height="50" width="60" src="https://user-images.githubusercontent.com/52223033/153649850-5e9211a9-d0cc-4c2a-9ab0-804f269e68ed.png">
+  <img align="center" alt="Rafa-CSS" height="50" width="60" src="https://user-images.githubusercontent.com/52223033/153649699-8f87e745-ab3a-4018-ab30-39aa536a100f.png">
   <img align="center" alt="Rafa-NextJS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg">
-  <img align="center" alt="styled-components" height="70" width="80" src="https://www.styled-components.com/atom.png">
+  <img align="center" alt="styled-components" height="50" width="60" src="https://user-images.githubusercontent.com/52223033/153650054-adf6126f-98b0-47fd-952e-b99627de0807.png">
  #7952B3
 </div>
   
@@ -24,6 +24,17 @@
 <!--   ![image](https://user-images.githubusercontent.com/52223033/153648360-2abaa294-9b47-406e-9da4-00a2f6ad565e.png)
   ![image](https://user-images.githubusercontent.com/52223033/153648518-dc9c10f1-cd0d-42a2-a652-f4d7b316e2f3.png)
   ![image](https://user-images.githubusercontent.com/52223033/153648590-99d98b05-0914-4d32-8144-4e1452cfc5e0.png) -->
+  ![image](https://user-images.githubusercontent.com/52223033/153649121-1b2224f6-08b2-4356-bcb9-cf7d4541acdc.png)
+<!--   
+  ![image](https://user-images.githubusercontent.com/52223033/153649699-8f87e745-ab3a-4018-ab30-39aa536a100f.png)
+  
+  ![image](https://user-images.githubusercontent.com/52223033/153649850-5e9211a9-d0cc-4c2a-9ab0-804f269e68ed.png)
+  
+  ![image](https://user-images.githubusercontent.com/52223033/153650054-adf6126f-98b0-47fd-952e-b99627de0807.png) -->
+
+
+
+
 
 
 
