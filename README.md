@@ -7,7 +7,7 @@
 
 ### Habilidades
 <div>
-  <img align="center" alt="Rafa-Js" height="50" width="50" src="https://user-images.githubusercontent.com/52223033/153651608-5330e1ed-98c4-4d1f-933b-de3fc55b1e3d.png">
+  <img align="center" alt="Rafa-Js" height="50" width="60" src="https://user-images.githubusercontent.com/52223033/153651608-5330e1ed-98c4-4d1f-933b-de3fc55b1e3d.png">
   <img align="center" alt="Rafa-HTML" height="50" width="60" src="https://user-images.githubusercontent.com/52223033/153649850-5e9211a9-d0cc-4c2a-9ab0-804f269e68ed.png">
   <img align="center" alt="Rafa-CSS" height="50" width="60" src="https://user-images.githubusercontent.com/52223033/153649699-8f87e745-ab3a-4018-ab30-39aa536a100f.png">
   <img align="center" alt="Rafa-NextJS" height="50" width="60" src="https://user-images.githubusercontent.com/52223033/153651535-cc2c50c3-e163-4e68-a3cb-e155f66076e6.png">
@@ -16,9 +16,9 @@
 </div>
   
 ### Contacto
-<a href="https://www.linkedin.com/in/paola-medina-58bb76186/" target="_blank"><img height="60" width="60" src="https://user-images.githubusercontent.com/52223033/153648590-99d98b05-0914-4d32-8144-4e1452cfc5e0.png" target="_blank"></a>
-<a href="paaaomedina@gmail.com" target="_blank"><img height="60" width="60" src="https://user-images.githubusercontent.com/52223033/153648360-2abaa294-9b47-406e-9da4-00a2f6ad565e.png"/></a>
-<a href="https://instagram.com/pao___medina/" target="_blank"><img  height="50" width="60" src="https://user-images.githubusercontent.com/52223033/153648518-dc9c10f1-cd0d-42a2-a652-f4d7b316e2f3.png" target="_blank"></a>
+<a href="https://www.linkedin.com/in/paola-medina-58bb76186/" target="_blank"><img lign="center" height="60" width="60" src="https://user-images.githubusercontent.com/52223033/153648590-99d98b05-0914-4d32-8144-4e1452cfc5e0.png" target="_blank"></a>
+<a href="paaaomedina@gmail.com" target="_blank"><img lign="center" height="60" width="60" src="https://user-images.githubusercontent.com/52223033/153648360-2abaa294-9b47-406e-9da4-00a2f6ad565e.png"/></a>
+<a href="https://instagram.com/pao___medina/" target="_blank"><img lign="center"  height="50" width="60" src="https://user-images.githubusercontent.com/52223033/153648518-dc9c10f1-cd0d-42a2-a652-f4d7b316e2f3.png" target="_blank"></a>
 
 
 
