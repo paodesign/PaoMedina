@@ -2,7 +2,7 @@
 ## Bienvenidos soy Paola y estos los proyectos
 <div align="start">
   <a href="https://github.com/paodesign/PaoMedina">
-  <img height="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paodesign&layout=compact&langs_count=7&theme=dracula"/>
+  <img color="6e27b7" height="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paodesign&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ### Habilidades
