@@ -1,7 +1,7 @@
 # PaoMedina
-## Hola soy Camilo Mora
+## Bienvenidos soy Paola y estos los proyectos
 <div align="start">
-  <a href="https://github.com/PaoMedina">
+  <a href="https://github.com/paodesign/PaoMedina">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaoMedina&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
