@@ -1,5 +1,6 @@
-# PaoMedina
-## Bienvenidos soy Paola y estos los proyectos
+# Paola Medina
+## Bienvenidos!  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+<br>
 
   
   <p align="center">
