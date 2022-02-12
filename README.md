@@ -1,13 +1,10 @@
 # PaoMedina
 ## Bienvenidos soy Paola y estos los proyectos
-<div align="start">
-  <a href="https://github.com/paodesign/paodesign">
-  <img color="6e27b7" height="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paodesign&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+
   
   <p align="center">
-<img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats...</b></i><br>
-<img src="https://github-readme-stats.vercel.app/api?username=paodesign&count_private=true&show_icons=true&theme=great-gatsby" alt="GitHub Status"/>
+<i><b>GitHub Stats...</b></i><br>
+<img src="https://github-readme-stats.vercel.app/api?username=paodesign&count_private=true&show_icons=true&theme=great-gatsby" alt="GitHub Status"/><br>
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=paodesign&show_icons=true&layout=compact&theme=great-gatsby" alt="Most Used Languages">
 </p>
 
