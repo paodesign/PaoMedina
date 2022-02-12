@@ -35,9 +35,9 @@ class Skills extends SoftwareDeveloper {
 </div>
   
 ### Contacto
-<a href="https://www.linkedin.com/in/paola-medina-58bb76186/" target="_blank"><img lign="center" height="60" width="60" src="https://user-images.githubusercontent.com/52223033/153648590-99d98b05-0914-4d32-8144-4e1452cfc5e0.png" target="_blank"></a>
-<a href="paaaomedina@gmail.com" target="_blank"><img lign="center" height="60" width="60" src="https://user-images.githubusercontent.com/52223033/153648360-2abaa294-9b47-406e-9da4-00a2f6ad565e.png"/></a>
-<a href="https://instagram.com/pao___medina/" target="_blank"><img lign="center"  height="50" width="60" src="https://user-images.githubusercontent.com/52223033/153648518-dc9c10f1-cd0d-42a2-a652-f4d7b316e2f3.png" target="_blank"></a>
+<a href="https://www.linkedin.com/in/paola-medina-58bb76186/" target="_blank"><img lign="center" height="60" width="60" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" target="_blank"></a>
+<a href="paaaomedina@gmail.com" target="_blank"><img lign="center" height="60" width="60" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg"/></a>
+<a href="https://instagram.com/pao___medina/" target="_blank"><img lign="center"  height="50" width="60" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" target="_blank"></a>
 
 
 
