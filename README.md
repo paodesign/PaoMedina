@@ -1,10 +1,9 @@
 # Paola Medina
-## Bienvenidos!  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+##<i><b> Bienvenidos! </b></i><br> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 <br>
 
   
   <p align="center">
-<i><b>GitHub Stats...</b></i><br>
 <img src="https://github-readme-stats.vercel.app/api?username=paodesign&count_private=true&show_icons=true&theme=great-gatsby" alt="GitHub Status"/><br>
 <img width="492px" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=paodesign&show_icons=true&layout=compact&theme=great-gatsby" alt="Most Used Languages">
 </p>
