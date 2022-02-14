@@ -22,7 +22,6 @@
 ### Contacto
 <a href="https://www.linkedin.com/in/paola-medina-58bb76186/" target="_blank"><img lign="center" width="24px"  src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" target="_blank"></a>
 <a href="paaaomedina@gmail.com" target="_blank"><img lign="center" width="24px"  src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg"/></a>
-<a href="https://instagram.com/pao___medina/" target="_blank"><img lign="center" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" target="_blank"></a>
 
 
 
