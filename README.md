@@ -26,11 +26,13 @@
 <li>  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="25"/> Figma</li>
 <li> Material UI</li>
 <li> React</li>
+<li> Angular</li>
 <li> TypeScript </li>
 <li><img align="center" alt="Rafa-HTML" height="25" width="30" src="https://user-images.githubusercontent.com/52223033/153649850-5e9211a9-d0cc-4c2a-9ab0-804f269e68ed.png">  Html  </li>
 <li> <img align="center" alt="Rafa-CSS" height="25" width="30" src="https://user-images.githubusercontent.com/52223033/153649699-8f87e745-ab3a-4018-ab30-39aa536a100f.png">  Css  </li>
 <li> <img align="center" alt="Rafa-Js" height="30" width="30" src="https://user-images.githubusercontent.com/52223033/153652622-15734c8b-afd6-4834-9af9-6f7e507529ad.png">Javascript </li>
 <li> <img align="center" alt="styled-components" height="25" width="25" src="https://user-images.githubusercontent.com/52223033/153650054-adf6126f-98b0-47fd-952e-b99627de0807.png"> Bootstrap</li>
+
 </ul>
 
 
