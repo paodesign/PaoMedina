@@ -45,8 +45,8 @@
 </div>
   
 ## :telephone_receiver: Contact
-<a href="www.linkedin.com/in/pao-design" target="_blank"><img lign="center" width="95px"  src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="paolamedina.designer@gmail.com" target="_blank"><img lign="center" width="75px"  src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="www.linkedin.com/in/pao-design" target="_blank"><img lign="center" width="95px"  src="" target="_blank"></a>
+<a href="paolamedina.designer@gmail.com" target="_blank"><img lign="center" width="75px" src="" target="_blank"></a>
 
 
 
