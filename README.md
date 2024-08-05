@@ -56,10 +56,8 @@ My hobbies include reading, playing games on my Nintendo, hiking in nature, and 
 </li>
 </ul>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=paodesign&count_private=true&show_icons=true&theme=great-gatsby" alt="GitHub Status"/><br>
-<img width="492px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paodesign&show_icons=true&layout=compact&theme=great-gatsby" alt="Most Used Languages">
-</p>
+
+***
 
 ## :telephone_receiver: Contact
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/pao-design)
