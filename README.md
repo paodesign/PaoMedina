@@ -31,6 +31,41 @@ My hobbies include reading, playing games on my Nintendo, hiking in nature, and 
 <li>Others: Docker, AWS, RESTful APIs</li>
 </ul>
 
+## 🛠 Tech Stack
+<ul>
+<li>Front-end: 
+    <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
+    <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+    <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" alt="Vue.js" />
+    <img src="https://img.shields.io/badge/Material-UI-0081CB?style=flat-square&logo=material-ui&logoColor=white" alt="Material-UI" />
+    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+</li>
+<li>Back-end:
+    <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
+    <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+    <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
+</li>
+<li>Database:
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+</li>
+<li>Version Control:
+    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+</li>
+<li>Design Tools:
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
+    <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=flat-square&logo=adobe-xd&logoColor=white" alt="Adobe XD" />
+</li>
+<li>Others:
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" />
+    <img src="https://img.shields.io/badge/RESTful%20APIs-25A27F?style=flat-square&logo=api&logoColor=white" alt="RESTful APIs" />
+</li>
+</ul>
+
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=paodesign&count_private=true&show_icons=true&theme=great-gatsby" alt="GitHub Status"/><br>
 <img width="492px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paodesign&show_icons=true&layout=compact&theme=great-gatsby" alt="Most Used Languages">
