@@ -23,16 +23,6 @@ My hobbies include reading, playing games on my Nintendo, hiking in nature, and 
 
 ## 🛠 Tech Stack
 <ul>
-<li>Front-end: HTML, CSS, JavaScript, React, Vue.js, Material-UI, Bootstrap</li>
-<li>Back-end: Django, Node.js, Express</li>
-<li>Database: PostgreSQL, MongoDB</li>
-<li>Version Control: Git, GitHub</li>
-<li>Design Tools: Figma, Adobe XD</li>
-<li>Others: Docker, AWS, RESTful APIs</li>
-</ul>
-
-## 🛠 Tech Stack
-<ul>
 <li>Front-end: 
     <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
     <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" />
@@ -75,6 +65,8 @@ My hobbies include reading, playing games on my Nintendo, hiking in nature, and 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/pao-design)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:paolamedina.designer@gmail.com)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=InternetExplorer&logoColor=white)](https://www.paolamedina.design/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-F57F20?style=flat-square&logo=InternetExplorer&logoColor=white)](https://www.paolamedina.design/)
+
 
 
 
