@@ -64,10 +64,8 @@ My hobbies include reading, playing games on my Nintendo, hiking in nature, and 
 ## :telephone_receiver: Contact
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/pao-design)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:paolamedina.designer@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=InternetExplorer&logoColor=white)](https://www.paolamedina.design/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-F57F20?style=flat-square&logo=InternetExplorer&logoColor=white)](https://www.paolamedina.design/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-%23F57F20%2C%20%23AA00FF?style=flat-square&logo=InternetExplorer&logoColor=white)](https://www.paolamedina.design/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-%23F57F20%2C%20%23AA00FF?style=flat-square&logo=(https://drive.google.com/drive/u/1/my-drive)&logoColor=white)](https://www.paolamedina.design/)
+
+[![Portfolio](https://img.shields.io/badge/-Portfolio-%23F57F20%2C%20%23AA00FF?style=flat-square&logo=(https://drive.google.com/drive/u/1/my-drive/paodesing2.jpg)&logoColor=white)](https://www.paolamedina.design/)
 
 
 
