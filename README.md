@@ -67,6 +67,8 @@ My hobbies include reading, playing games on my Nintendo, hiking in nature, and 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=InternetExplorer&logoColor=white)](https://www.paolamedina.design/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-F57F20?style=flat-square&logo=InternetExplorer&logoColor=white)](https://www.paolamedina.design/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-%23F57F20%2C%20%23AA00FF?style=flat-square&logo=InternetExplorer&logoColor=white)](https://www.paolamedina.design/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-%23F57F20%2C%20%23AA00FF?style=flat-square&logo=https://example.com/paodesing2.jpg&logoColor=white)](https://www.paolamedina.design/)
+
 
 
 
